@@ -148,7 +148,7 @@ catalog:
   "@types/semver": ^7.5.8
   astro: ^7.0.0
   astro-iconset: ^0.0.4
-  better-sqlite3: ^12.8.0
+  better-sqlite3: ^13.0.3
   chokidar: ^5.0.0
   image-size: ^2.0.2
   jsonc-parser: ^3.3.1
