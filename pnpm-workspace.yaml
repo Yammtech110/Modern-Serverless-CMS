@@ -145,7 +145,7 @@ catalog:
   "@types/better-sqlite3": ^7.6.12
   "@types/react": 19.2.14
   "@types/react-dom": 19.2.3
-  "@types/semver": ^7.5.8
+  "@types/semver": ^7.8.0
   astro: ^7.0.0
   astro-iconset: ^0.0.4
   better-sqlite3: ^12.8.0
@@ -156,7 +156,7 @@ catalog:
   publint: 0.3.17
   react: 19.2.4
   react-dom: 19.2.4
-  semver: ^7.6.3
+  semver: ^7.8.5
   tsdown: 0.20.3
   typescript: ^6.0.3
   vite: ^8.0.11
